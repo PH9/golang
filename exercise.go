@@ -1,5 +1,6 @@
 package golang
 
-func subtract(x, y int) int {
+// Subtract two values by x minus y
+func Subtract(x, y int) int {
 	return x - y
 }
